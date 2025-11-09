@@ -4,6 +4,6 @@ Implemented an 8-bit, four-function calculator with SystemVerilog on the DE10-Li
 
 # Features
 
-I/O: Input numbers using a 4x4 pushbutton keypad and output results on a HexBoard in hexadecimal format.
-Signed Numbers: Handles operations on signed numbers within the range of -127 to 128.
-Finite State Machine: Implemented a Finite State Machine (FSM) with eight states to manage operations for the calculator.
+* I/O: Input numbers using a 4x4 pushbutton keypad and output results on a HexBoard in hexadecimal format.
+* Signed Numbers: Handles operations on signed numbers within the range of -127 to 128.
+* Finite State Machine: Implemented a Finite State Machine (FSM) with eight states to manage operations for the calculator.
